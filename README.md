@@ -1,10 +1,9 @@
 
 
-![空投](./assets/空投.jpg)
+![空投](./assets/airdrop.jpg)
 
-:globe_with_meridians:[English]():globe_with_meridians:	
+:globe_with_meridians:[English](https://github.com/Patrickming/Airdrop-Tutorial/blob/main/en/README.md):globe_with_meridians:	
 
-[TOC]
 
 # 空投教程
 
