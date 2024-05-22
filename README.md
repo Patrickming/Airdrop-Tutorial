@@ -15,6 +15,14 @@ web3 撸空投
 
 **❗❗❗ 学习教程前，请先查看**[注意事项 ](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Cautions) ❗❗❗
 
+
+
+**❗❗❗ 学习教程前，请先查看**[注意事项 ](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Cautions) ❗❗❗
+
+
+
+**❗❗❗ 学习教程前，请先查看**[注意事项 ](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Cautions) ❗❗❗
+
 ## 零撸
 
 ### 目录
@@ -34,23 +42,23 @@ web3 撸空投
 
 ### 教程
 
-**1.Side Quests**：[链接](https://sidequest.rcade.game) | [教程]() 
+**1.Side Quests**：[链接](https://sidequest.rcade.game) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Side Quests) 
 
 
 
-**2.bubble.imaginaryones**：[链接](https://bubble.imaginaryones.com/?ref=ZKZSA8) | [教程]() 
+**2.bubble.imaginaryones**：[链接](https://bubble.imaginaryones.com/?ref=ZKZSA8) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/bubble) 
 
 
 
-**3. Skate Park**：[链接](https://park.skatechain.org/?ref=mX31ipWYPr) | [教程]() 
+**3. Skate Park**：[链接](https://park.skatechain.org/?ref=mX31ipWYPr) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Skate Park) 
 
 
 
-**4.Battle Showdown**：[链接](https://battleshowdown.com/) | [教程]() 
+**4.Battle Showdown**：[链接](https://battleshowdown.com/) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Battle Showdown) 
 
 
 
-**5.MOONVEIL**：[链接](https://www.moonveil.gg?invite_code=TCEPPBEZ) | [教程]() 
+**5.MOONVEIL**：[链接](https://www.moonveil.gg?invite_code=TCEPPBEZ) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/MOONVEIL) 
 
 
 
