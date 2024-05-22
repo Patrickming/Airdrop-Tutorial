@@ -42,7 +42,7 @@ web3 撸空投
 
 ### 教程
 
-**1.Side Quests**：[链接](https://sidequest.rcade.game) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Side Quests) 
+**1.Side Quests**：[链接](https://sidequest.rcade.game) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/SideQuests) 
 
 
 
@@ -50,11 +50,11 @@ web3 撸空投
 
 
 
-**3. Skate Park**：[链接](https://park.skatechain.org/?ref=mX31ipWYPr) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Skate Park) 
+**3. Skate Park**：[链接](https://park.skatechain.org/?ref=mX31ipWYPr) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/SkatePark) 
 
 
 
-**4.Battle Showdown**：[链接](https://battleshowdown.com/) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/Battle Showdown) 
+**4.Battle Showdown**：[链接](https://battleshowdown.com/) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/BattleShowdown) 
 
 
 
