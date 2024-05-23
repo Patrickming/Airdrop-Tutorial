@@ -10,18 +10,16 @@
 
 ---
 
+##  难度:简单 :star:
 
+## 💲邀请链接：https://park.skatechain.org/?ref=mX31ipWYPr
 
-
-
-邀请链接：https://park.skatechain.org/?ref=mX31ipWYPr
-
-连接推特
+1. 连接推特
 
 ![img](./assets/1716383332606-17.png)
 
-完成任务
+2. 完成任务
+- 这里需要连接钱包然后mintNFT，且获得大量积分
+- 这个有些时候会出现卡顿 多试几次或者隔天再试即可
 
 ![img](./assets/1716383345589-20.png)
-
-- 这个有些时候会出现卡顿 多试几次或者隔天再试即可
