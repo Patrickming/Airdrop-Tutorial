@@ -27,18 +27,18 @@ web3 撸空投
 
 ### 目录
 
-| 项目                 | 邀请码/链接                                  | 任务分类                                    | 状态         |
-| -------------------- | -------------------------------------------- | ------------------------------------------- | ------------ |
-| Side Quests          | netty12138                                   | 每日转盘、邀请积分、社交任务                | 未发币空投   |
-| bubble.imaginaryones | https://bubble.imaginaryones.com/?ref=ZKZSA8 | 邀请积分、社交任务、玩游戏                  | 零撸未发空投 |
-| Skate Park           | https://park.skatechain.org/?ref=mX31ipWYPr  | 领NFT、邀请积分、社交任务                   | 未发币空投   |
-| Battle Showdown      | wvh9so                                       | 邀请积分、~~成本任务~~、社交任务            | 未发币空投   |
-| MOONVEIL             | https://www.moonveil.gg?invite_code=TCEPPBEZ | steam游戏数量、钱包余额、邀请积分、社交任务 | 未发币空投   |
-|                      |                                              |                                             |              |
-|                      |                                              |                                             |              |
-|                      |                                              |                                             |              |
-|                      |                                              |                                             |              |
-|                      |                                              |                                             |              |
+| 项目                 | 邀请码/链接                                    | 任务分类                                    | 状态         |
+| -------------------- | ---------------------------------------------- | ------------------------------------------- | ------------ |
+| Side Quests          | netty12138                                     | 每日转盘、邀请积分、社交任务                | 未发币空投   |
+| bubble.imaginaryones | https://bubble.imaginaryones.com/?ref=ZKZSA8   | 邀请积分、社交任务、玩游戏                  | 零撸未发空投 |
+| Skate Park           | https://park.skatechain.org/?ref=mX31ipWYPr    | 领NFT、邀请积分、社交任务                   | 未发币空投   |
+| Battle Showdown      | wvh9so                                         | 邀请积分、~~成本任务~~、社交任务            | 未发币空投   |
+| MOONVEIL             | https://www.moonveil.gg?invite_code=TCEPPBEZ   | steam游戏数量、钱包余额、邀请积分、社交任务 | 未发币空投   |
+| nillion              | nillion1rud4glal99g73wzs9c7hx4ga4lq9e750sj49f7 |                                             |              |
+|                      |                                                |                                             |              |
+|                      |                                                |                                             |              |
+|                      |                                                |                                             |              |
+|                      |                                                |                                             |              |
 
 ### 教程
 
@@ -59,6 +59,10 @@ web3 撸空投
 
 
 **5.MOONVEIL**：[链接](https://www.moonveil.gg?invite_code=TCEPPBEZ) | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/MOONVEIL) 
+
+
+
+**6.nillion**：[链接]() | [教程](https://github.com/Patrickming/Airdrop-Tutorial/tree/main/Tutorial/nillion) 
 
 
 
